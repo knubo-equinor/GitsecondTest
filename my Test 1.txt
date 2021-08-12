@@ -1,5 +1,5 @@
 
-This si my second repository and test
+This is my second repository and test
 
 Write line 2
 
